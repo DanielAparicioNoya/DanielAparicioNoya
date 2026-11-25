@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img"><title>mi stack</title>
+<clipPath id="r"><rect width="1200" height="120" rx="10"/></clipPath>
+<g clip-path="url(#r)">
+<rect width="1200" height="120" fill="#0e0d24"/>
+<rect x="640" width="560" height="120" fill="#15133a"/>
+<circle cx="980" cy="60" r="110" fill="#5be7ff" fill-opacity="0.12"/>
+<rect width="8" height="120" fill="#5be7ff"/>
+<g><rect x="820" y="22" width="110" height="74" rx="4" fill="#1a1940" stroke="#3a3a7a" stroke-width="2"/>
+<rect x="825" y="27" width="100" height="64" fill="#5be7ff"/>
+<circle cx="853" cy="52" r="12" fill="#ffffff" fill-opacity="0.45"/>
+<rect x="832" y="74" width="50" height="5" fill="#0e0d24" fill-opacity="0.45"/>
+<animate attributeName="opacity" values="1;0.8;1;0.92;1" dur="3s" repeatCount="indefinite"/></g>
+<g><rect x="950" y="36" width="90" height="60" rx="4" fill="#1a1940" stroke="#3a3a7a" stroke-width="2"/>
+<rect x="955" y="41" width="80" height="50" fill="#7cffb2"/>
+<circle cx="977" cy="60" r="10" fill="#ffffff" fill-opacity="0.45"/>
+<rect x="962" y="74" width="40" height="5" fill="#0e0d24" fill-opacity="0.45"/>
+<animate attributeName="opacity" values="1;0.8;1;0.92;1" dur="4s" repeatCount="indefinite"/></g>
+<g><rect x="1060" y="16" width="100" height="82" rx="4" fill="#1a1940" stroke="#3a3a7a" stroke-width="2"/>
+<rect x="1065" y="21" width="90" height="72" fill="#a77bff"/>
+<circle cx="1090" cy="49" r="13" fill="#ffffff" fill-opacity="0.45"/>
+<rect x="1072" y="76" width="45" height="5" fill="#0e0d24" fill-opacity="0.45"/>
+<animate attributeName="opacity" values="1;0.8;1;0.92;1" dur="5s" repeatCount="indefinite"/></g>
+<rect x="640" y="98" width="560" height="22" fill="#1c1a45"/>
+<text x="40" y="42" font-family="'Courier New', Consolas, monospace" font-size="16" fill="#5be7ff">// npm install --everything</text>
+<text x="40" y="88" font-family="'Courier New', Consolas, monospace" font-size="46" font-weight="bold" fill="#e8f3ff">mi stack</text>
+<rect x="40" y="108" width="10" height="5" fill="#5be7ff"/><rect x="56" y="108" width="10" height="5" fill="#7cffb2"/><rect x="72" y="108" width="10" height="5" fill="#ffd166"/><rect x="88" y="108" width="10" height="5" fill="#a77bff"/><rect x="104" y="108" width="10" height="5" fill="#5be7ff"/><rect x="120" y="108" width="10" height="5" fill="#7cffb2"/><rect x="136" y="108" width="10" height="5" fill="#ffd166"/><rect x="152" y="108" width="10" height="5" fill="#a77bff"/><rect x="168" y="108" width="10" height="5" fill="#5be7ff"/><rect x="184" y="108" width="10" height="5" fill="#7cffb2"/><rect x="200" y="108" width="10" height="5" fill="#ffd166"/><rect x="216" y="108" width="10" height="5" fill="#a77bff"/><rect x="232" y="108" width="10" height="5" fill="#5be7ff"/><rect x="248" y="108" width="10" height="5" fill="#7cffb2"/>
+<rect x="-160" y="0" width="140" height="120" fill="#ffffff" fill-opacity="0.07"><animate attributeName="x" from="-160" to="1200" dur="5s" repeatCount="indefinite"/></rect>
+</g></svg>
