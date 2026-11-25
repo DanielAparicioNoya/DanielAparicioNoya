@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/estado-compilando-ff7eb6?style=for-the-badge" alt="estado">
   <img src="https://img.shields.io/badge/caf%C3%A9-infinito-ffd166?style=for-the-badge" alt="café">
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&color=5be7ff&labelColor=15133a" alt="seguidores">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=b79cff&label=VISITAS" alt="visitas">
+  <img src="https://img.shields.io/github/followers/DanielAparicioNoya?style=for-the-badge&color=5be7ff&labelColor=15133a" alt="seguidores">
+  <img src="https://komarev.com/ghpvc/?username=DanielAparicioNoya&style=for-the-badge&color=b79cff&label=VISITAS" alt="visitas">
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&hide_border=true&background=0e0d24&ring=ff7eb6&fire=ffd166&currStreakLabel=5be7ff&sideLabels=e8f3ff&currStreakNum=e8f3ff&sideNums=e8f3ff&dates=9fb4ff" alt="racha">
+  <img src="https://streak-stats.demolab.com/?user=DanielAparicioNoya&hide_border=true&background=0e0d24&ring=ff7eb6&fire=ffd166&currStreakLabel=5be7ff&sideLabels=e8f3ff&currStreakNum=e8f3ff&sideNums=e8f3ff&dates=9fb4ff" alt="racha">
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -47,8 +47,8 @@
 <img src="assets/header-projects.svg" width="100%" alt="proyectos">
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 1"></a>
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 2"></a>
+  <a href="https://github.com/DanielAparicioNoya/NOMBRE_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAparicioNoya&repo=NOMBRE_REPO_1&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 1"></a>
+  <a href="https://github.com/DanielAparicioNoya/NOMBRE_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAparicioNoya&repo=NOMBRE_REPO_2&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 2"></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -56,7 +56,7 @@
 <img src="assets/header-contact.svg" width="100%" alt="contacto">
 
 <p align="center">
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:dapanoya@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/TU_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://discord.com/users/TU_ID_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
