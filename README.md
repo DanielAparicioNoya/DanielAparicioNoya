@@ -47,8 +47,8 @@
 <img src="assets/header-projects.svg" width="100%" alt="proyectos">
 
 <p align="center">
-  <a href="https://github.com/DanielAparicioNoya/NOMBRE_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAparicioNoya&repo=NOMBRE_REPO_1&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 1"></a>
-  <a href="https://github.com/DanielAparicioNoya/NOMBRE_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAparicioNoya&repo=NOMBRE_REPO_2&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 2"></a>
+  <a href="https://github.com/DanielAparicioNoya/ProyectoIntegrador"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAparicioNoya&repo=ProyectoIntegrador&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 1"></a>
+  <a href="https://github.com/DanielAparicioNoya/ProyectoBaseDeDatos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAparicioNoya&repo=ProyectoBaseDeDatos&hide_border=true&bg_color=0e0d24&title_color=ff7eb6&icon_color=5be7ff&text_color=e8f3ff" alt="proyecto 2"></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -58,8 +58,7 @@
 <p align="center">
   <a href="mailto:dapanoya@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/TU_TWITTER"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://discord.com/users/TU_ID_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://x.com/D_Aparcio18"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="gracias por pasarte">
